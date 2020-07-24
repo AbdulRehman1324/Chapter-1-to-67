@@ -1,7 +1,7 @@
 // CHAPTER # 01
 
 // Quesion # 1
-alert('Assalam u Alaikum, Muhammad Huzaifa Khan Here');
+alert('Assalam u Alaikum, Abdul Rehman Here');
 
 // Question # 2
 alert('Error! Please enter a valid password.');
@@ -21,7 +21,7 @@ window.alert('Hello... I can run JS through my web browsers console');
 var username;
 
 // Quesion # 2
-var myName = "Muhammad Huzaifa Khan";
+var myName = "Abdul Rehman";
 
 // Quesion # 3
 var message;
@@ -29,7 +29,7 @@ message = "Hello World";
 alert(message);
 
 // Quesion # 4
-var name = "Muhammad Huzaifa Khan";
+var name = "Abdul Rehman";
 var age = 23;
 var course = "Certified Web & Mobile Hybrid Application Development";
 alert(name);
@@ -41,7 +41,7 @@ var pizza = "PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(pizza);
 
 // Question # 6
-var email="huzaifanadir1997@gmail.com";
+var email="sohaibrajibali@gmail.com";
 alert("My Email Address is "+email);
 
 // Question # 7
@@ -550,7 +550,7 @@ var stdInfo = [];
 var studInfo = new Array();
 
 //Question # 3
-var name = ["Muhammad waleed Khan", "Muhammad Huzaifa Khan", "Khan Abu Bakar"];
+var name = ["Abdul Rehman", "Sami", "waleed"];
 
 //Question # 4
 var ages = [21, 23, 19];
@@ -559,7 +559,7 @@ var ages = [21, 23, 19];
 var booleanArray = [true, false];
 
 //Question # 6
-var mixedArray = ["muhammad huzaifa Khan", 21, true];
+var mixedArray = ["Abdul Rehman", 21, true];
 
 //Question # 7
 var quaInPak = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.Phil.", "PhD"];
@@ -569,7 +569,7 @@ for (var i=0; i<quaInPak.length; i++) {
 }
 
 //Question # 8
-var stdName = ["Waleed", "Huzaifa", "Abu Bakar"];
+var stdName = ["Waleed", "abdul", "Hassan"];
 var stdScore = [230, 480, 320];
 var totalMarks = 500;
 document.write("<br /><br />");
